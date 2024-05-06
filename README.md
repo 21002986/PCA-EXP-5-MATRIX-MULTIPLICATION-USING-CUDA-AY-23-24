@@ -1,6 +1,6 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
-<h3>NAME K.Sai Vinay</h3>
-<h3>REGISTER NO 212221040069</h3>
+<h3>NAME:K.Sai Vinay</h3>
+<h3>REGISTER NO:212221040069</h3>
 
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
