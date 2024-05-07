@@ -1,7 +1,8 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
-<h3>NAME:K.Sai Vinay</h3>
-<h3>REGISTER NO:212221040069</h3>
-
+<h3>Name:K.Sai Vinay</h3>
+<h3>Reg.No:212221040069</h3>
+<h3>Ex.No:05</h3>
+<h3>Date:07/05/24</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
@@ -200,7 +201,8 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/SudharshnaLakshmi/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/93427267/3e8c516f-e699-4558-8fc8-67c3a701cbf7)
+![Screenshot 2024-05-07 101225](https://github.com/21002986/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/112633513/d8ce9adf-7588-4bfc-807d-a2ff625c37ab)
+
 
 
 ## RESULT:
